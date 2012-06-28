@@ -22,7 +22,7 @@ width="720px" height="360px">
 
 
  <!-- <rect id="dot" x="-10" y="-1" width="2" height="2" style="stroke:none; stroke-width:0; fill:black"/> -->
- <image x="0" y="0" width="720" height="360" xlink:href="https://github.com/rdmpage/flickreolmap/raw/master/gbif720x360.png"/>
+ <image x="0" y="0" width="720" height="360" xlink:href="gbif720x360.png"/>
 
  <g transform="translate(360,180) scale(2,-2)"><!-- 154 -->
    <use xlink:href="#dot100" transform="translate(11,49)" />
